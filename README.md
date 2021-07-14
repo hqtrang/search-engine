@@ -8,6 +8,7 @@ are in XML-like format (nyt199501.xml and nytsmall.xml)
 
 Run the program with the command:
     $ python search-engine.py [corpus_name]
+    
 Do not include ".xml" in corpus_name. 
 If no corpus file is specified or if the corpus file does not exist,
 the program will use the nyt199501 corpus.
